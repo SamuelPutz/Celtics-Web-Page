@@ -1,5 +1,5 @@
 h1{
-	text-align: left;
+	text-align: center;
 	background-color:green;
 	padding: 30px 20px 20px 30px;
 	border:#004204 15px solid;
@@ -51,5 +51,6 @@ h1{
 	font-size: 40px;
 	border-left: #EBD848 4px solid; 
 	border-right: #EBD848 4px solid;
+	font-weight:10;
 }
  
