@@ -1,0 +1,56 @@
+h1{
+	text-align: center;
+	background-color:green;
+	padding: 30px 20px 20px 30px;
+	border:#004204 15px solid;
+	font-size: 30px;
+	color:white;
+	border-radius: 20px;
+}
+#dif_pages{
+	font-size:30px ;
+}
+#player_description{
+			
+}
+#player_ind{
+	font-size: 25px;
+	font-weight: 20px;
+}
+#header1{
+	text-align: center;
+	background-color:green;
+	font-size:50px;
+	padding: 12px;
+	color:white;
+	font-style:initial;
+	border: #004204 15px solid;
+	border-radius: 20px;
+}
+#schedules{
+	font-size:25px;
+	border-collapse: collapse;
+	background-color: #A2D1DB;
+	border-radius: 20px; 
+
+}
+#schedules th{
+	text-align: center;
+	background-color: #3a6070;
+	color:white;
+	padding:8px 50px 8px 8px;
+
+
+}
+#schedules td{
+	border: 1px solid #e3e3e3;
+	padding: 8px 50px;
+	text-align: left;
+}
+#schedule_header{
+	font-size: 40px;
+	border-left: #EBD848 4px solid; 
+	border-right: #EBD848 4px solid;
+	font-weight:10;
+}
+ 
